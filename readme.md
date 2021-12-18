@@ -101,7 +101,11 @@ Finally; we leverage the clean & analysis-ready dataset for exploratory data ana
 
 ## Demo
 
-To be updated...
+Here is the snippet of the Power BI dashboard:
+
+![Dashboard Image][dashboard_image]
+
+The interactive dashboard can be viewed in the dashboard from [here][dashboard_link]
 
 ## Support
 
@@ -128,6 +132,7 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 [project_logo]: 06_RESOURCES/project_cover_image.png
 [process_workflow]: 06_RESOURCES/process_architecture.png
 [scraping_graphic]: 06_RESOURCES/scraping_graphic.gif
+[dashboard_image]: 06_RESOURCES/dashboard_image.png
 
 <!-- External Links -->
 
@@ -137,6 +142,7 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 [linkedin]: https://www.linkedin.com/in/uditkumarchatterjee/
 [twitter]: https://twitter.com/quantumudit
+[dashboard_link]: https://app.powerbi.com/view?r=eyJrIjoiYzJiNWRkOWUtYzFmNi00NzVmLTg0NWMtZTljZWY4MmQwZmZlIiwidCI6IjcwODlkNGIxLTQyMmUtNDYzZi1hNGM3LTViY2FiOTk0MGRiZCJ9&pageName=ReportSection8b0879d590be87cd63d7
 
 <!-- Shields Profile Links -->
 
