@@ -101,11 +101,9 @@ Finally; we leverage the clean & analysis-ready dataset for exploratory data ana
 
 ## Demo
 
-Here is the snippet of the Power BI dashboard:
+The interactive Power BI dashboard can be viewed here:
 
-![Dashboard Image][dashboard_image]
-
-The interactive dashboard can be viewed in the dashboard from [here][dashboard_link]
+[![Power BI Dashboard][dashboard_image]][dashboard_link]
 
 ## Support
 
