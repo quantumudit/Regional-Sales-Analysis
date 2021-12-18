@@ -64,7 +64,7 @@ For analyzing the data with Jupyter Notebook; we have used the clean dataset pre
 
 **05_DASHBOARD**
 
-This directory contains the python notebook with an embedded Power BI report that visualizes the data.
+This directory contains the markdown file with an embedded Power BI report link that visualizes the data.
 
 The Power BI dashboard contains slicers, cross-filtering and other advance capabilities that end user can play with to visualize a specific facet of the data or, to get additional insights.
 
