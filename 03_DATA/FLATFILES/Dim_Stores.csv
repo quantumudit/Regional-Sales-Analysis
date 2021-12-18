@@ -1,0 +1,368 @@
+StoreID,Region,State,City,Latitude,Longitude
+1,South,Alabama,Birmingham,33.52744,-86.79905
+2,South,Alabama,Huntsville,34.69901,-86.67298
+3,South,Alabama,Mobile,30.69436,-88.04305
+4,South,Alabama,Montgomery,32.36681,-86.29997
+5,South,Arkansas,Little Rock,34.74648,-92.28959
+6,West,Arizona,Chandler,33.30616,-111.84125
+7,West,Arizona,Gilbert,33.35283,-111.78903
+8,West,Arizona,Glendale,33.53865,-112.18599
+9,West,Arizona,Mesa,33.42227,-111.82264
+10,West,Arizona,Peoria,33.7862,-112.30801
+11,West,Arizona,Phoenix,33.44838,-112.07404
+12,West,Arizona,Scottsdale,33.50921,-111.89903
+13,West,Arizona,Surprise,33.63059,-112.33322
+14,West,Arizona,Tempe,33.41477,-111.90931
+15,West,Arizona,Tucson,32.22174,-110.92648
+16,West,California,Anaheim,33.83529,-117.9145
+17,West,California,Antioch,38.00492,-121.80579
+18,West,California,Bakersfield,35.37329,-119.01871
+19,West,California,Berkeley,37.87159,-122.27275
+20,West,California,Burbank,34.18084,-118.30897
+21,West,California,Carlsbad,33.15809,-117.35059
+22,West,California,Chula Vista,32.64,-117.08417
+23,West,California,Clovis,36.82523,-119.70292
+24,West,California,Concord,37.97798,-122.03107
+25,West,California,Corona,33.87529,-117.56644
+26,West,California,Costa Mesa,33.64113,-117.91867
+27,West,California,Daly City,37.70583,-122.46194
+28,West,California,Downey,33.94001,-118.13257
+29,West,California,East Los Angeles,34.0239,-118.17202
+30,West,California,El Cajon,32.79477,-116.96253
+31,West,California,Elk Grove,38.4088,-121.37162
+32,West,California,El Monte,34.06862,-118.02757
+33,West,California,Escondido,33.11921,-117.08642
+34,West,California,Fairfield,38.24936,-122.03997
+35,West,California,Fontana,34.09223,-117.43505
+36,West,California,Fremont,37.54827,-121.98857
+37,West,California,Fresno,36.74773,-119.77237
+38,West,California,Fullerton,33.87029,-117.92534
+39,West,California,Garden Grove,33.77391,-117.94145
+40,West,California,Glendale,34.14251,-118.25508
+41,West,California,Hayward,37.66882,-122.0808
+42,West,California,Huntington Beach,33.6603,-117.99923
+43,West,California,Inglewood,33.96168,-118.35313
+44,West,California,Irvine,33.66946,-117.82311
+45,West,California,Jurupa Valley,34.00259,-117.46761
+46,West,California,Lancaster,34.69804,-118.13674
+47,West,California,Long Beach,33.76696,-118.18923
+48,West,California,Los Angeles,34.05223,-118.24368
+49,West,California,Modesto,37.6391,-120.99688
+50,West,California,Moreno Valley,33.93752,-117.23059
+51,West,California,Murrieta,33.55391,-117.21392
+52,West,California,Norwalk,33.90224,-118.08173
+53,West,California,Oakland,37.80437,-122.2708
+54,West,California,Oceanside,33.19587,-117.37948
+55,West,California,Ontario,34.06334,-117.65089
+56,West,California,Orange,33.78779,-117.85311
+57,West,California,Oxnard,34.1975,-119.17705
+58,West,California,Palmdale,34.57943,-118.11646
+59,West,California,Pasadena,34.14778,-118.14452
+60,West,California,Pomona,34.05529,-117.75228
+61,West,California,Rancho Cucamonga,34.1064,-117.59311
+62,West,California,Rialto,34.1064,-117.37032
+63,West,California,Richmond,37.93576,-122.34775
+64,West,California,Riverside,33.95333,-117.39611
+65,West,California,Roseville,38.75212,-121.28801
+66,West,California,Sacramento,38.58157,-121.4944
+67,West,California,Salinas,36.67774,-121.6555
+68,West,California,San Bernardino,34.10834,-117.28977
+69,West,California,San Buenaventura (Ventura),34.26778,-119.25421
+70,West,California,San Diego,32.71533,-117.15726
+71,West,California,San Francisco,37.775,-122.41944
+72,West,California,San Jose,37.33939,-121.89496
+73,West,California,San Mateo,37.56299,-122.32553
+74,West,California,Santa Ana,33.74557,-117.86783
+75,West,California,Santa Clara,37.35411,-121.95524
+76,West,California,Santa Clarita,34.39166,-118.54259
+77,West,California,Santa Maria,34.95303,-120.43572
+78,West,California,Santa Rosa,38.44047,-122.71443
+79,West,California,Simi Valley,34.26945,-118.78148
+80,West,California,Stockton,37.9577,-121.29078
+81,West,California,Sunnyvale,37.36883,-122.03635
+82,West,California,Temecula,33.49364,-117.14836
+83,West,California,Thousand Oaks,34.17056,-118.8375
+84,West,California,Torrance,33.83585,-118.34063
+85,West,California,Vallejo,38.10409,-122.25664
+86,West,California,Victorville,34.53611,-117.29116
+87,West,California,Visalia,36.33023,-119.29206
+88,West,California,Vista,33.20004,-117.24254
+89,West,California,West Covina,34.06862,-117.93895
+90,West,Colorado,Arvada,39.83373,-105.15031
+91,West,Colorado,Aurora,39.688,-104.68974
+92,West,Colorado,Boulder,40.01499,-105.27055
+93,West,Colorado,Centennial,39.57916,-104.87692
+94,West,Colorado,Colorado Springs,38.83388,-104.82136
+95,West,Colorado,Denver,39.73915,-104.9847
+96,West,Colorado,Fort Collins,40.58526,-105.08442
+97,West,Colorado,Greeley,40.42331,-104.70913
+98,West,Colorado,Highlands Ranch,39.55388,-104.96943
+99,West,Colorado,Lakewood,39.70471,-105.08137
+100,West,Colorado,Pueblo,38.25445,-104.60914
+101,West,Colorado,Thornton,39.91942,-104.94281
+102,West,Colorado,Westminster,39.88219,-105.06443
+103,Northeast,Connecticut,Bridgeport,41.16704,-73.20483
+104,Northeast,Connecticut,Bridgeport (Town),41.18739,-73.19576
+105,Northeast,Connecticut,Hartford,41.76371,-72.68509
+106,Northeast,Connecticut,Hartford (Town),41.76593,-72.68158
+107,Northeast,Connecticut,New Haven,41.30815,-72.92816
+108,Northeast,Connecticut,New Haven (Town),41.31081,-72.92495
+109,Northeast,Connecticut,Stamford,41.05343,-73.53873
+110,Northeast,Connecticut,Stamford (Town),41.07986,-73.54603
+111,Northeast,Connecticut,Waterbury,41.55815,-73.0515
+112,Northeast,Connecticut,Waterbury (Town),41.5585,-73.03668
+113,South,District of Columbia,Washington,38.9041,-77.01723
+114,South,Florida,Brandon,27.9378,-82.28592
+115,South,Florida,Cape Coral,26.56285,-81.94953
+116,South,Florida,Clearwater,27.97895,-82.76657
+117,South,Florida,Coral Springs,26.27119,-80.2706
+118,South,Florida,Davie,26.06287,-80.2331
+119,South,Florida,Fort Lauderdale,26.12231,-80.14338
+120,South,Florida,Gainesville,29.65163,-82.32483
+121,South,Florida,Hialeah,25.8576,-80.27811
+122,South,Florida,Hollywood,26.0112,-80.14949
+123,South,Florida,Jacksonville,30.33218,-81.65565
+124,South,Florida,Lakeland,28.03947,-81.9498
+125,South,Florida,Lehigh Acres,26.62535,-81.6248
+126,South,Florida,Miami,25.77427,-80.19366
+127,South,Florida,Miami Gardens,25.94204,-80.2456
+128,South,Florida,Miramar,25.98731,-80.23227
+129,South,Florida,Orlando,28.53834,-81.37924
+130,South,Florida,Palm Bay,28.03446,-80.58866
+131,South,Florida,Pembroke Pines,26.00315,-80.22394
+132,South,Florida,Pompano Beach,26.23786,-80.12477
+133,South,Florida,Port St. Lucie,27.29393,-80.35033
+134,South,Florida,Spring Hill,28.47689,-82.52546
+135,South,Florida,St. Petersburg,27.77086,-82.67927
+136,South,Florida,Tallahassee,30.43826,-84.28073
+137,South,Florida,Tampa,27.94752,-82.45843
+138,South,Florida,West Palm Beach,26.71534,-80.05337
+139,South,Georgia,Athens,33.95219,-83.36715
+140,South,Georgia,Atlanta,33.76291,-84.42267
+141,South,Georgia,Augusta,33.36149,-82.075
+142,South,Georgia,Columbus,32.46098,-84.98771
+143,South,Georgia,Macon,32.80884,-83.69419
+144,South,Georgia,Sandy Springs,33.92427,-84.37854
+145,South,Georgia,Savannah,32.08354,-81.09983
+146,West,Hawaii,Honolulu,21.32435,-157.84764
+147,Midwest,Iowa,Cedar Rapids,42.00833,-91.64407
+148,Midwest,Iowa,Davenport,41.52364,-90.57764
+149,Midwest,Iowa,Des Moines,41.57259,-93.61024
+150,West,Idaho,Boise City,43.6135,-116.20345
+151,Midwest,Illinois,Aurora,41.76346,-88.2901
+152,Midwest,Illinois,Aurora (Township),41.76887,-88.31893
+153,Midwest,Illinois,Bloomingdale (Township),41.94563,-88.08462
+154,Midwest,Illinois,Bremen,41.60156,-87.73503
+155,Midwest,Illinois,Capital,39.79106,-89.64457
+156,Midwest,Illinois,Chicago,41.83755,-87.68184
+157,Midwest,Illinois,Downers Grove (Township),41.7543,-87.97753
+158,Midwest,Illinois,Elgin,42.03964,-88.32171
+159,Midwest,Illinois,Elgin (Township),42.0261,-88.31822
+160,Midwest,Illinois,Hanover,42.02803,-88.20364
+161,Midwest,Illinois,Joliet,41.5177,-88.14885
+162,Midwest,Illinois,Lisle (Township),41.77193,-88.09209
+163,Midwest,Illinois,Lyons (Township),41.77475,-87.8596
+164,Midwest,Illinois,Maine,42.03353,-87.86441
+165,Midwest,Illinois,Milton,41.85857,-88.08948
+166,Midwest,Illinois,Naperville,41.74917,-88.16202
+167,Midwest,Illinois,Naperville (Township),41.76635,-88.2009
+168,Midwest,Illinois,Niles (Township),42.03209,-87.75778
+169,Midwest,Illinois,Palatine (Township),42.11125,-88.0644
+170,Midwest,Illinois,Peoria,40.69365,-89.58899
+171,Midwest,Illinois,Peoria City,40.74495,-89.60964
+172,Midwest,Illinois,Proviso,41.86472,-87.87119
+173,Midwest,Illinois,Rockford,42.25884,-89.06455
+174,Midwest,Illinois,Rockford (Township),42.24868,-89.07452
+175,Midwest,Illinois,Schaumburg (Township),42.02911,-88.08951
+176,Midwest,Illinois,Springfield,39.80172,-89.64371
+177,Midwest,Illinois,Thornton (Township),41.60127,-87.60032
+178,Midwest,Illinois,Wheeling (Township),42.10987,-87.94458
+179,Midwest,Illinois,Worth (Township),41.69043,-87.74383
+180,Midwest,Illinois,York,41.86177,-87.9761
+181,Midwest,Indiana,Calumet,41.58533,-87.35516
+182,Midwest,Indiana,Center,39.77485,-86.13949
+183,Midwest,Indiana,Evansville,37.97476,-87.55585
+184,Midwest,Indiana,Fort Wayne,41.1306,-85.12886
+185,Midwest,Indiana,Indianapolis,39.778,-86.14584
+186,Midwest,Indiana,Lawrence (Township),39.8716,-86.01156
+187,Midwest,Indiana,North,41.61329,-87.47085
+188,Midwest,Indiana,Perry,39.67674,-86.15616
+189,Midwest,Indiana,South Bend,41.68338,-86.25001
+190,Midwest,Indiana,Warren,39.77514,-86.01718
+191,Midwest,Indiana,Washington,39.87632,-86.14291
+192,Midwest,Indiana,Wayne,41.05238,-85.16209
+193,Midwest,Indiana,Wayne,39.77186,-86.26094
+194,Midwest,Kansas,Kansas City,39.11417,-94.62746
+195,Midwest,Kansas,Olathe,38.8814,-94.81913
+196,Midwest,Kansas,Overland Park,38.98223,-94.67079
+197,Midwest,Kansas,Topeka,39.04833,-95.67804
+198,Midwest,Kansas,Wichita,37.69224,-97.33754
+199,South,Kentucky,Lexington-Fayette,38.0498,-84.45855
+200,South,Kentucky,Louisville,38.25424,-85.75941
+201,South,Louisiana,Baton Rouge,30.45075,-91.15455
+202,South,Louisiana,Lafayette,30.22409,-92.01984
+203,South,Louisiana,Metairie,29.98409,-90.15285
+204,South,Louisiana,New Orleans,29.95465,-90.07507
+205,South,Louisiana,Shreveport,32.46688,-93.79219
+206,Northeast,Massachusetts,Boston,42.35843,-71.05977
+207,Northeast,Massachusetts,Cambridge,42.3751,-71.10561
+208,Northeast,Massachusetts,Lowell,42.63342,-71.31617
+209,Northeast,Massachusetts,Springfield,42.10148,-72.58981
+210,Northeast,Massachusetts,Worcester,42.26259,-71.80229
+211,South,Maryland,Baltimore,39.29038,-76.61219
+212,South,Maryland,Columbia,39.24038,-76.83942
+213,Midwest,Michigan,Ann Arbor,42.27087,-83.72633
+214,Midwest,Michigan,Detroit,42.33143,-83.04575
+215,Midwest,Michigan,Grand Rapids,42.96336,-85.66809
+216,Midwest,Michigan,Lansing,42.71434,-84.55928
+217,Midwest,Michigan,Sterling Heights,42.58031,-83.0302
+218,Midwest,Michigan,Warren,42.49982,-83.00549
+219,Midwest,Minnesota,Minneapolis,44.97997,-93.26384
+220,Midwest,Minnesota,Rochester,44.02163,-92.4699
+221,Midwest,Minnesota,St. Paul,44.94441,-93.09327
+222,Midwest,Missouri,Columbia,38.95171,-92.33407
+223,Midwest,Missouri,Independence,39.08547,-94.3521
+224,Midwest,Missouri,Kansas City,39.12513,-94.55103
+225,Midwest,Missouri,Springfield,37.19415,-93.2913
+226,Midwest,Missouri,St. Louis,38.62727,-90.19789
+227,South,Mississippi,Jackson,32.31583,-90.21282
+228,West,Montana,Billings,45.78329,-108.50069
+229,South,North Carolina,Cary,35.78088,-78.81327
+230,South,North Carolina,Charlotte,35.22709,-80.84313
+231,South,North Carolina,Durham,35.98115,-78.90293
+232,South,North Carolina,Fayetteville,35.05266,-78.87836
+233,South,North Carolina,Greensboro,36.07264,-79.79198
+234,South,North Carolina,High Point,35.98998,-79.99047
+235,South,North Carolina,Raleigh,35.8306,-78.64177
+236,South,North Carolina,Wilmington,34.22573,-77.94471
+237,South,North Carolina,Winston-Salem,36.09986,-80.24422
+238,Midwest,North Dakota,Fargo,46.87719,-96.7898
+239,Midwest,Nebraska,Lincoln,40.8,-96.66696
+240,Midwest,Nebraska,Omaha,41.25861,-95.93779
+241,Northeast,New Hampshire,Manchester,42.99564,-71.45479
+242,Northeast,New Jersey,Edison,40.50399,-74.34941
+243,Northeast,New Jersey,Elizabeth,40.66399,-74.2107
+244,Northeast,New Jersey,Jersey City,40.72816,-74.07764
+245,Northeast,New Jersey,Newark,40.73566,-74.17237
+246,Northeast,New Jersey,Paterson,40.91677,-74.17181
+247,Northeast,New Jersey,Woodbridge (Township),40.56073,-74.2927
+248,West,New Mexico,Albuquerque,35.08449,-106.65114
+249,West,New Mexico,Las Cruces,32.31232,-106.77834
+250,West,Nevada,Enterprise,36.02525,-115.24194
+251,West,Nevada,Henderson,36.0397,-114.98194
+252,West,Nevada,Las Vegas,36.17497,-115.13722
+253,West,Nevada,North Las Vegas,36.19886,-115.1175
+254,West,Nevada,Paradise,36.09719,-115.14666
+255,West,Nevada,Reno,39.52963,-119.8138
+256,West,Nevada,Spring Valley,36.10803,-115.245
+257,West,Nevada,Sunrise Manor,36.21108,-115.07306
+258,Northeast,New York,Amherst,43.01164,-78.75715
+259,Northeast,New York,Babylon (Town),40.64092,-73.31669
+260,Northeast,New York,Brookhaven,40.85745,-72.95984
+261,Northeast,New York,Brooklyn,40.62472,-73.95222
+262,Northeast,New York,Buffalo,42.88645,-78.87837
+263,Northeast,New York,Hempstead (Town),40.63396,-73.6091
+264,Northeast,New York,Huntington,40.88409,-73.37676
+265,Northeast,New York,Islip,40.71258,-73.19552
+266,Northeast,New York,Manhattan,40.72833,-73.99417
+267,Northeast,New York,New York City,40.66347,-73.9387
+268,Northeast,New York,North Hempstead,40.80336,-73.6784
+269,Northeast,New York,Oyster Bay,40.80049,-73.51056
+270,Northeast,New York,Queens,40.75,-73.86667
+271,Northeast,New York,Ramapo,41.14077,-74.10498
+272,Northeast,New York,Rochester,43.15478,-77.61556
+273,Northeast,New York,Smithtown,40.91922,-73.17912
+274,Northeast,New York,Staten Island,40.57628,-74.14484
+275,Northeast,New York,Syracuse,43.04812,-76.14742
+276,Northeast,New York,The Bronx,40.83722,-73.88611
+277,Northeast,New York,Yonkers,40.93121,-73.89875
+278,Midwest,Ohio,Akron,41.08144,-81.51901
+279,Midwest,Ohio,Cincinnati,39.162,-84.45689
+280,Midwest,Ohio,Cleveland,41.4995,-81.69541
+281,Midwest,Ohio,Columbus,39.98524,-82.98477
+282,Midwest,Ohio,Dayton,39.75895,-84.19161
+283,Midwest,Ohio,Toledo,41.66394,-83.55521
+284,South,Oklahoma,Broken Arrow,36.03653,-95.781
+285,South,Oklahoma,Norman,35.22257,-97.43948
+286,South,Oklahoma,Oklahoma City,35.46708,-97.51366
+287,South,Oklahoma,Tulsa,36.12795,-95.90232
+288,West,Oregon,Eugene,44.05207,-123.08675
+289,West,Oregon,Gresham,45.49818,-122.43148
+290,West,Oregon,Hillsboro,45.52289,-122.98983
+291,West,Oregon,Portland,45.53695,-122.64997
+292,West,Oregon,Salem,44.92371,-123.02319
+293,Northeast,Pennsylvania,Allentown,40.60843,-75.49018
+294,Northeast,Pennsylvania,Philadelphia,39.95234,-75.16379
+295,Northeast,Pennsylvania,Pittsburgh,40.44062,-79.99589
+296,Northeast,Rhode Island,Providence,41.82399,-71.41283
+297,South,South Carolina,Charleston,32.81793,-79.95896
+298,South,South Carolina,Columbia,34.0291,-80.89804
+299,South,South Carolina,North Charleston,32.91782,-80.06503
+300,Midwest,South Dakota,Sioux Falls,43.53834,-96.732
+301,South,Tennessee,Chattanooga,35.04563,-85.30968
+302,South,Tennessee,Clarksville,36.52977,-87.35945
+303,South,Tennessee,Knoxville,35.96064,-83.92074
+304,South,Tennessee,Memphis,35.14953,-90.04898
+305,South,Tennessee,Murfreesboro,35.84562,-86.39027
+306,South,Tennessee,Nashville,36.16913,-86.78479
+307,South,Texas,Abilene,32.45451,-99.73815
+308,South,Texas,Amarillo,35.19988,-101.8302
+309,South,Texas,Arlington,32.73569,-97.10807
+310,South,Texas,Austin,30.30394,-97.75436
+311,South,Texas,Beaumont,30.08605,-94.10185
+312,South,Texas,Brownsville,25.90175,-97.49748
+313,South,Texas,Carrollton,32.98836,-96.89977
+314,South,Texas,College Station,30.62798,-96.33441
+315,South,Texas,Corpus Christi,27.75425,-97.17339
+316,South,Texas,Dallas,32.79333,-96.76651
+317,South,Texas,Denton,33.21484,-97.13307
+318,South,Texas,El Paso,31.75872,-106.48693
+319,South,Texas,Fort Worth,32.78152,-97.34675
+320,South,Texas,Frisco,33.15543,-96.8226
+321,South,Texas,Garland,32.90983,-96.63033
+322,South,Texas,Grand Prairie,32.68695,-97.0211
+323,South,Texas,Houston,29.78664,-95.3909
+324,South,Texas,Irving,32.81402,-96.94889
+325,South,Texas,Killeen,31.11712,-97.7278
+326,South,Texas,Laredo,27.50641,-99.50754
+327,South,Texas,Lewisville,33.04655,-96.98183
+328,South,Texas,Lubbock,33.57786,-101.85517
+329,South,Texas,McAllen,26.20341,-98.23001
+330,South,Texas,McKinney,33.19762,-96.61527
+331,South,Texas,Mesquite,32.76288,-96.58877
+332,South,Texas,Midland,32.02464,-102.11347
+333,South,Texas,Odessa,31.88378,-102.34106
+334,South,Texas,Pasadena,29.69106,-95.2091
+335,South,Texas,Pearland,29.55576,-95.32307
+336,South,Texas,Plano,33.05077,-96.74794
+337,South,Texas,Richardson,32.97229,-96.70807
+338,South,Texas,Round Rock,30.52524,-97.66595
+339,South,Texas,San Angelo,31.46377,-100.43704
+340,South,Texas,San Antonio,29.4724,-98.52514
+341,South,Texas,The Woodlands,30.17256,-95.50981
+342,South,Texas,Tyler,32.35126,-95.30106
+343,South,Texas,Waco,31.54933,-97.14667
+344,South,Texas,Wichita Falls,33.91371,-98.49339
+345,West,Utah,Provo,40.23384,-111.65853
+346,West,Utah,Salt Lake City,40.76078,-111.89105
+347,West,Utah,West Jordan,40.60967,-111.9391
+348,West,Utah,West Valley City,40.69161,-112.00105
+349,South,Virginia,Alexandria,38.80484,-77.04692
+350,South,Virginia,Arlington,38.89039,-77.08414
+351,South,Virginia,Chesapeake,36.81904,-76.27494
+352,South,Virginia,Hampton,37.02987,-76.34522
+353,South,Virginia,Newport News,36.97876,-76.428
+354,South,Virginia,Norfolk,36.84681,-76.28522
+355,South,Virginia,Richmond,37.55376,-77.46026
+356,South,Virginia,Virginia Beach,36.85293,-75.97799
+357,West,Washington,Bellevue,47.61038,-122.20068
+358,West,Washington,Everett,47.97898,-122.20208
+359,West,Washington,Kent,47.38093,-122.23484
+360,West,Washington,Renton,47.48288,-122.21707
+361,West,Washington,Seattle,47.60621,-122.33207
+362,West,Washington,Spokane,47.65878,-117.42605
+363,West,Washington,Tacoma,47.25288,-122.44429
+364,West,Washington,Vancouver,45.63873,-122.66149
+365,Midwest,Wisconsin,Green Bay,44.51916,-88.01983
+366,Midwest,Wisconsin,Madison,43.07305,-89.40123
+367,Midwest,Wisconsin,Milwaukee,43.06335,-87.9667
