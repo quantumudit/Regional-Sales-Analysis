@@ -25,7 +25,7 @@ This project focuses on analyzing and visualizing the regional sales across the 
 
 The repository directory structure is as follows:
 
-Analyzing-US-Regional-Sales<br>
+Regional-Sales-Analysis<br>
 ├─ 01_SOURCE<br>
 ├─ 02_ETL<br>
 ├─ 03_DATA<br>
